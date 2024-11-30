@@ -1,0 +1,102 @@
+cod_org,nom_org,cuit,id_tipo_org,id_razon_soc,id_tipo_c,id_pais
+P00001,Proveedora S.A.,30-12345678-9,2,2,1,1
+P00002,Pedro Gonzalez,30-87654321-0,2,3,2,1
+P00003,Empresa XYZ,30-13579246-3,2,2,1,1
+P00004,Servicios AB,30-24681357-2,2,3,1,1
+P00005,Carlos Mendez,30-12345678-9,2,2,2,1
+P00006,Grupo Alfa,30-97531246-1,2,3,1,1
+P00007,Ana Sanchez,30-19283746-4,2,2,1,1
+P00008,Compañia Beta,30-74859632-7,2,3,2,1
+P00009,Fernando Gomez,30-12345679-8,2,2,1,1
+P00010,Soluciones Gama,30-98765432-1,2,3,1,1
+P00011,Javier Lopez,30-65432198-7,2,2,2,1
+P00012,Proveedor Ltda.,30-32165487-0,2,3,1,1
+P00013,Repuestos Omega,30-45678901-2,2,2,2,1
+P00014,Estudio Juridico Alfa,30-13579248-7,2,3,1,1
+P00015,Rosa Perez,30-24681358-6,2,2,1,1
+P00016,Marketing Global,30-97531247-8,2,3,1,1
+P00017,Julio Fernandez,30-86430976-9,2,2,2,1
+P00018,Consultora Zeta,30-19283747-0,2,3,1,1
+P00101,Luis Martinez,20-12345678-9,2,3,2,1
+P00102,Ana Rodriguez,30-98765432-5,2,2,3,1
+P00103,Carlos Fernandez,27-23456789-1,2,5,2,1
+P00104,Maria Gonzalez,23-45678901-3,2,3,1,1
+P00105,Pedro Lopez,33-56789012-4,2,2,2,1
+P00106,Laura Perez,20-87654321-2,2,3,3,1
+P00107,Javier Ramirez,30-65432109-8,2,2,2,1
+P00108,Claudia Sanchez,27-76543210-6,2,5,1,1
+P00109,Daniel Morales,23-87654320-5,2,3,2,1
+P00110,Gabriela Torres,33-76543219-7,2,2,3,1
+P00111,Jorge Herrera,20-87654322-3,2,3,2,1
+P00112,Silvia Ramirez,30-76543214-8,2,2,3,1
+P00113,Roberto Cruz,27-23456789-3,2,5,1,1
+P00114,Patricia Gomez,23-87654323-6,2,3,2,1
+P00115,Ernesto Ruiz,33-65432198-7,2,2,3,1
+P00116,Valeria Ortega,20-98765432-9,2,3,2,1
+P00117,Juan Castillo,30-87654321-0,2,2,3,1
+P00118,Sofia Martinez,27-12345678-9,2,5,1,1
+P00119,Pablo Diaz,23-87654329-8,2,3,2,1
+P00120,Isabel Ramirez,33-76543218-9,2,2,3,1
+P00121,Carla Medina,20-34567890-1,2,3,2,1
+P00122,Manuel Fernandez,30-98765434-2,2,2,3,1
+P00123,Sofia Castro,27-87654321-0,2,2,2,1
+P00124,Ricardo Lopez,23-98765432-4,2,3,3,1
+P00125,Gabriela Martinez,33-12345678-9,2,5,2,1
+P00126,Pablo Vargas,20-23456789-1,2,2,3,1
+P00127,Laura Fernandez,30-34567890-3,2,3,2,1
+P00128,Javier Gonzalez,27-98765432-5,2,2,3,1
+P00129,Patricia Rivas,23-45678901-7,2,3,2,1
+P00130,Fernando Reyes,33-56789012-6,2,5,3,1
+P00131,Valentina Ortega,20-87654321-2,2,3,2,1
+P00132,Andres Ruiz,30-12345678-9,2,2,3,1
+P00133,Daniela Fernandez,27-23456789-4,2,2,2,1
+P00134,Luis Gomez,23-34567890-7,2,3,3,1
+P00135,Marcela Jimenez,33-45678901-8,2,5,2,1
+P00136,Roberto Diaz,20-56789012-3,2,2,3,1
+P00137,Camila Martinez,30-67890123-4,2,3,2,1
+P00138,Santiago Lopez,27-78901234-6,2,2,3,1
+P00139,Fernanda Garcia,23-89012345-9,2,3,2,1
+P00140,Nicolas Castillo,33-90123456-0,2,5,3,1
+P00141,Juliana Perez,20-01234567-4,2,3,2,1
+P00142,Diego Fernandez,30-12345678-5,2,2,3,1
+P00143,Mariana Gomez,27-23456789-6,2,2,2,1
+P00144,Manuel Rodriguez,23-34567890-1,2,3,3,1
+P00145,Clara Jimenez,33-45678901-2,2,5,2,1
+P00146,Eduardo Reyes,20-56789012-5,2,2,3,1
+P00147,Laura Castillo,30-67890123-6,2,3,2,1
+P00148,Alejandro Rivas,27-78901234-9,2,2,3,1
+P00149,Veronica Martinez,23-89012346-2,2,3,2,1
+P00150,Gabriel Lopez,33-90123456-3,2,5,3,1
+D00108,Iniciativa Solidaria,24-91224120-6,1,1,2,3
+D00109,Innovatech Solutions,24-56588769-6,1,2,4,1
+D00110,Apoyo Logistico S.A.,29-01265476-14,1,2,1,7
+D00111,Futuro Corporativo,27-23783266-6,1,1,2,7
+D00112,Global Energies S.A.,25-36901514-8,1,2,1,9
+D00113,Proyecto Gubernamental,29-75196406-1,1,4,4,9
+D00114,Latinoamerica Crece,27-75193456-1,1,4,4,9
+D00115,Mercado Popular,24-34193456-2,1,1,2,3
+D00116,Universidad del Sur,29-38793456-3,1,2,1,8
+D00117,Automoviles Full,21-38712356-4,1,2,1,9
+D00120,Supermercado Vegano SRL,34-01712356-5,1,3,1,10
+D00121,Ministerio de Accion Comunitaria,34-01712356-6,1,4,4,4
+D00122,El Parque SRL,24-78912356-7,1,3,1,2
+D00123,Merendero Solidario,24-72582356-8,1,4,2,2
+D00124,Soluciones VerdeVida,20-12345678-9,1,6,2,1
+D00125,Innovacion Global S.A.,27-23456789-1,1,2,1,3
+D00126,Empresas FuturoBrillante,30-34567890-2,1,1,1,4
+D00127,Horizonte Ecologico,23-45678901-3,1,6,2,6
+D00128,Fundacion UniCorp,33-56789012-4,1,6,2,5
+D00129,Corporacion NovaTech,30-98765432-1,1,2,1,5
+D00130,Servicios Plus,30-45765232-2,1,1,1,5
+D00131,InnovaLogix S.A.,27-65432109-8,1,2,4,3
+D00132,ViaVerde,27-78434109-9,1,3,1,4
+D00133,Energia Futuro S.A.,30-67891234-7,1,2,5,3
+D00134,Energia Sustentable S.A.,33-12345678-9,1,2,1,3
+D00135,Logistica Global S.R.L.,20-98765432-1,1,3,2,4
+D00136,AgroIndustrias del Sur,33-11223344-5,1,2,5,5
+D00137,TecnoAvanzado S.R.L.,20-22334455-6,1,3,2,1
+D00138,Innovacion Solar S.A.,30-99887766-7,1,2,1,6
+D00139,TechGreen Innovacion S.R.L.,25-67890123-0,1,3,5,1
+D00140,EcoTransporte S.A.,30-33445566-7,1,2,4,1
+D00141,Apoyo Social Universal,30-33675566-8,1,4,4,1
+D00142,Bebidas S.A,34-38765566-0,1,2,1,6

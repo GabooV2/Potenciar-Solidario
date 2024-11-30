@@ -1,0 +1,69 @@
+id_org,id_categoria,ciudad,cod_prov,provincia
+1,1,Buenos Aires,AR-B,Buenos Aires
+2,1,Cordoba,AR-X,Cordoba
+3,2,Rosario,AR-S,Santa Fe
+4,3,Mendoza,AR-M,Mendoza
+5,1,Buenos Aires,AR-B,Buenos Aires
+6,1,San Miguel de Tucuman,AR-T,Tucuman
+7,1,Mar del Plata,AR-B,Buenos Aires
+8,3,La Plata,AR-B,Buenos Aires
+9,2,Mendoza,AR-M,Mendoza
+10,1,Mar del Plata,AR-B,Buenos Aires
+11,3,Mar del Plata,AR-B,Buenos Aires
+12,1,Salta,AR-A,Salta
+13,1,Santa Fe,AR-S,Santa Fe
+14,2,San Juan,AR-J,San Juan
+15,3,Buenos Aires,AR-B,Buenos Aires
+16,1,Neuquen,AR-Q,Neuquen
+17,2,Rio Gallegos,AR-Z,Santa Cruz
+18,1,San Rafael,AR-M,Mendoza
+19,4,Buenos Aires,AR-B,Buenos Aires
+20,5,Bahia Blanca,AR-B,Buenos Aires
+21,6,Buenos Aires,AR-B,Buenos Aires
+22,7,Buenos Aires,AR-B,Buenos Aires
+23,8,Santiago del Estero,AR-G,Santiago del Estero
+24,9,Rio Cuarto,AR-X,Cordoba
+25,4,San Fernando del Valle de Catamarca,AR-K,Catamarca
+26,6,Villa Maria,AR-X,Cordoba
+27,7,San Luis,AR-D,San Luis
+28,8,Chaco,AR-H,Chaco
+29,9,Buenos Aires,AR-B,Buenos Aires
+30,4,San Nicolas,AR-B,Buenos Aires
+31,6,Lujan,AR-B,Buenos Aires
+32,7,Jujuy,AR-Y,Jujuy
+33,8,Buenos Aires,AR-B,Buenos Aires
+34,9,Buenos Aires,AR-B,Buenos Aires
+35,4,Trelew,AR-U,Chubut
+36,6,Mendoza,AR-M,Mendoza
+37,7,San Fernando,AR-B,Buenos Aires
+38,8,Merlo,AR-B,Buenos Aires
+39,10,San Martin,AR-B,Buenos Aires
+40,11,Viedma,AR-R,Rio Negro
+41,12,Rawson,AR-U,Chubut
+42,8,Obera,AR-N,Misiones
+43,9,Calafate,AR-Z,Santa Cruz
+44,4,Gualeguaychu,AR-E,Entre Rios
+45,13,Rio Grande,AR-V,"Tierra del Fuego, Antartida e Islas del Atlantico Sur"
+46,7,Buenos Aires,AR-B,Buenos Aires
+47,8,Villa Carlos Paz,AR-X,Cordoba
+48,9,Villa Allende,AR-X,Cordoba
+49,5,San Pedro,AR-B,Buenos Aires
+50,4,General Roca,AR-R,Rio Negro
+51,12,Junin,AR-B,Buenos Aires
+52,8,Buenos Aires,AR-B,Buenos Aires
+53,9,Rafaela,AR-S,Santa Fe
+54,4,Rio Gallegos,AR-Z,Santa Cruz
+55,13,Buenos Aires,AR-B,Buenos Aires
+56,7,Mendoza,AR-M,Mendoza
+57,8,Cordoba,AR-X,Cordoba
+58,9,Rosario,AR-S,Santa Fe
+59,5,San Juan,AR-J,San Juan
+60,4,San Rafael,AR-M,Mendoza
+61,12,Posadas,AR-N,Misiones
+62,8,Bahia Blanca,AR-B,Buenos Aires
+63,9,Resistencia,AR-H,Chaco
+64,4,Formosa,AR-P,Formosa
+65,13,Santiago del Estero,AR-G,Santiago del Estero
+66,7,Rio Cuarto,AR-X,Cordoba
+67,8,Buenos Aires,AR-B,Buenos Aires
+68,9,Villa Maria,AR-X,Cordoba
